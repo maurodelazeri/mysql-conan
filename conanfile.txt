@@ -1,0 +1,5 @@
+[requires]
+mysql-connector-c/8.0.15@zinnion/stable
+
+[generators]
+cmake
